@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  generateName: java-eap-maven-
+  generateName: cool-app-
 projects:
   - name: acme-app
     source:
